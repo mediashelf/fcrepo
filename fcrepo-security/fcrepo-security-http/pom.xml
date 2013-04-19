@@ -6,7 +6,7 @@
 	<parent>
 		<artifactId>fcrepo-security</artifactId>
 		<groupId>org.fcrepo</groupId>
-		<version>3.6.1</version>
+		<version>3.6.1-FCREPO-1075</version>
 		<relativePath>..</relativePath>
 	</parent>
 
